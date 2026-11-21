@@ -3,7 +3,9 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <header class="navbar">
-    <a href="#" class="logo">YOUR <span>FASHION</span></a>
+    <a href="#" class="logo">
+  <img src="/Golden%20Fashion%20Sneaker%20Emblem.png" alt="YOUR FASHION Logo" style="height:60px; width:auto;">
+</a>
 
     <nav>
       <a href="#home">Home</a>
